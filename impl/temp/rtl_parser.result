@@ -1,0 +1,62 @@
+[
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+  "InstLine" : 7,
+  "InstName" : "lcd114_test",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+  "ModuleLine" : 7,
+  "ModuleName" : "lcd114_test",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+    "InstLine" : 160,
+    "InstName" : "ctrler",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/controller.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "controller",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/controller.v",
+      "InstLine" : 11,
+      "InstName" : "encoder",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/rotary_encoder.v",
+      "ModuleLine" : 38,
+      "ModuleName" : "rotary_encoder"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+    "InstLine" : 173,
+    "InstName" : "instance1",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/game_logic.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "game_logic"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+    "InstLine" : 183,
+    "InstName" : "binaryToBCD",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/bin2bcd.v",
+    "ModuleLine" : 5,
+    "ModuleName" : "bin2bcd"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+    "InstLine" : 192,
+    "InstName" : "tens",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/digit_module.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "digit_module"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/top.v",
+    "InstLine" : 203,
+    "InstName" : "ones",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/pong/src/digit_module.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "digit_module"
+   }
+  ]
+ }
+]
